@@ -26,7 +26,7 @@ export const Contact: React.FC = () => {
   const [errorMessage, setErrorMessage] = useState<string>('');
   const [copiedEmail, setCopiedEmail] = useState(false);
 
-  const formspreeEndpoint = import.meta.env.VITE_FORMSPREE_ENDPOINT?.trim();
+  const formspreeEndpoint = (import.meta.env.VITE_FORMSPREE_ENDPOINT || 'https://formspree.io/f/xaeoqlba').trim();
 
   const handleCopyEmail = () => {
     navigator.clipboard.writeText(personalData.email);
