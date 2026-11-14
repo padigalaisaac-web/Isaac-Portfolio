@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FolderGit2, Info } from 'lucide-react';
+import { FolderGit2 } from 'lucide-react';
 import { projectsData, Project } from '../data/projects';
 import { ProjectCard } from './ProjectCard';
 import { ProjectModal } from './ProjectModal';
@@ -83,15 +83,6 @@ export const Projects: React.FC = () => {
               onViewDetails={(proj) => setActiveProject(proj)}
             />
           ))}
-        </div>
-
-        {/* Configurable / Code Access Note */}
-        <div className="mt-12 bg-white rounded-2xl border border-border p-5 sm:p-6 shadow-subtle flex items-start gap-3.5">
-          <Info className="w-5 h-5 text-primary mt-0.5 shrink-0" />
-          <div className="text-xs sm:text-sm text-body leading-relaxed">
-            <span className="font-semibold text-heading">Need full code access or a live project walkthrough?</span>{' '}
-            Project configurations and mock repositories are clearly separated in <code className="text-primary font-mono text-xs bg-blue-50 px-1 py-0.5 rounded">src/data/projects.ts</code>. For prospective internship employers and interview evaluations, complete live demonstrations and full code repositories can be reviewed on request.
-          </div>
         </div>
 
       </div>

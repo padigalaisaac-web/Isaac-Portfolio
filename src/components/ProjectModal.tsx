@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { X, Github, ExternalLink, CheckCircle2, Layers, AlertCircle } from 'lucide-react';
+import { X, Github, ExternalLink, CheckCircle2, Layers } from 'lucide-react';
 import { Project } from '../data/projects';
 
 interface ProjectModalProps {
@@ -27,9 +27,6 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) 
   }, [project, onClose]);
 
   if (!project) return null;
-
-  const isPlaceholderGithub = !project.githubUrl || project.githubUrl.includes('placeholder');
-  const isPlaceholderDemo = !project.demoUrl || project.demoUrl.includes('placeholder');
 
   return (
     <div
@@ -125,17 +122,6 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) 
               ))}
             </div>
           </div>
-
-          {/* Repository Status Note */}
-          {(isPlaceholderGithub || isPlaceholderDemo) && (
-            <div className="p-3.5 rounded-xl bg-amber-50 border border-amber-200 text-amber-900 text-xs flex items-start gap-2.5">
-              <AlertCircle className="w-4 h-4 text-amber-600 mt-0.5 shrink-0" />
-              <div>
-                <strong className="font-semibold">Repository / Live Demo Status:</strong>{' '}
-                This project was created and evaluated as a complete application. For repositories in private client/academic review, live walkthrough code access is readily provided upon request.
-              </div>
-            </div>
-          )}
 
         </div>
 
