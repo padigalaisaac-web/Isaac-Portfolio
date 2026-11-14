@@ -146,8 +146,8 @@ Portfolio/
 ### 2. Clone and Install
 ```bash
 # Clone the repository
-git clone https://github.com/padigalaisaac/isaac-portfolio.git
-cd isaac-portfolio
+git clone https://github.com/padigalaisaac-web/Isaac-Portfolio.git
+cd Isaac-Portfolio
 
 # Install dependencies cleanly
 npm install
@@ -225,12 +225,12 @@ This project includes a tested `render.yaml` Blueprint file configured specifica
    ```bash
    git add .
    git commit -m "feat: complete developer portfolio for Padigala Isaac"
-   git remote add origin https://github.com/<your-username>/isaac-portfolio.git
+   git remote add origin https://github.com/padigalaisaac-web/Isaac-Portfolio.git
    git push -u origin main
    ```
 2. Log into the [Render Dashboard](https://dashboard.render.com/).
 3. Click **New +** ➔ **Blueprint**.
-4. Select your `isaac-portfolio` repository.
+4. Select your `Isaac-Portfolio` repository.
 5. Render will automatically detect `render.yaml` with the following configuration:
    - **Type:** Static Site
    - **Name:** `isaac-portfolio`
@@ -274,5 +274,5 @@ If configuring manually without Blueprints:
 - Phone: +91 9441909774  
 - Location: Hyderabad, India  
 - Education: B.Tech CSE (AI & ML) — Expected 2028  
-- GitHub: [github.com/padigalaisaac](https://github.com)  
+- GitHub: [github.com/padigalaisaac-web](https://github.com/padigalaisaac-web)  
 - LinkedIn: [linkedin.com/in/padigalaisaac](https://linkedin.com)

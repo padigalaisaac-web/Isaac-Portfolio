@@ -57,7 +57,7 @@ export const personalData: PersonalInfo = {
     graduationYear: "2028",
   },
   socialLinks: {
-    github: "https://github.com",
+    github: "https://github.com/padigalaisaac-web",
     linkedin: "https://linkedin.com",
     email: "mailto:padigalaisaac@gmail.com",
     phone: "tel:+919441909774",
