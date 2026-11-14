@@ -33,7 +33,7 @@ export const projectsData: Project[] = [
     ],
     image: "/images/projects/deepguard.svg",
     githubUrl: "https://github.com/padigalaisaac-web/deepguard.ai",
-    demoUrl: "https://deepguard-demo.placeholder.app",
+    demoUrl: "https://deepguard-ai-isaac.onrender.com",
     category: "ai",
     badge: "AI & Full Stack",
     highlights: ["FastAPI Inference", "OpenCV Computer Vision", "Dockerized Architecture"],
