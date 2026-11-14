@@ -195,6 +195,34 @@ export const About: React.FC = () => {
               </div>
             </div>
 
+            {/* Languages & Professional Strengths Card */}
+            <div className="bg-white p-5 sm:p-6 rounded-2xl border border-border shadow-subtle space-y-4">
+              <div>
+                <span className="text-xs font-semibold uppercase tracking-wider text-slate-400 block mb-2">
+                  Languages Spoken
+                </span>
+                <div className="flex flex-wrap gap-2">
+                  {personalData.languages.map((lang) => (
+                    <span key={lang} className="text-xs font-medium px-2.5 py-1 rounded-md bg-secondary text-slate-700 border border-border">
+                      {lang}
+                    </span>
+                  ))}
+                </div>
+              </div>
+              <div className="pt-2 border-t border-border/70">
+                <span className="text-xs font-semibold uppercase tracking-wider text-slate-400 block mb-2">
+                  Core Soft Skills &amp; Attributes
+                </span>
+                <div className="flex flex-wrap gap-1.5">
+                  {personalData.softSkills.map((skill) => (
+                    <span key={skill} className="text-[11px] font-medium px-2 py-0.5 rounded bg-blue-50 text-blue-700 border border-blue-100">
+                      {skill}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
+
           </div>
 
         </div>

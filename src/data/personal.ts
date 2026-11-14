@@ -29,6 +29,9 @@ export interface PersonalInfo {
     value: string;
     description: string;
   }[];
+  languages: string[];
+  interests: string[];
+  softSkills: string[];
 }
 
 export const personalData: PersonalInfo = {
@@ -93,5 +96,14 @@ export const personalData: PersonalInfo = {
       value: "Hyderabad",
       description: "Open to In-office & Remote",
     },
+  ],
+  languages: ["English", "Telugu", "Hindi"],
+  interests: ["Full-Stack Development", "Web Applications", "APIs", "Databases", "AI Agents"],
+  softSkills: [
+    "Problem Solving",
+    "Communication",
+    "Teamwork & Collaboration",
+    "Time Management",
+    "Adaptability"
   ],
 };
