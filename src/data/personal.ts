@@ -61,7 +61,7 @@ export const personalData: PersonalInfo = {
   },
   socialLinks: {
     github: "https://github.com/padigalaisaac-web",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://linkedin.com/in/padigalaisaac",
     email: "mailto:padigalaisaac@gmail.com",
     phone: "tel:+919441909774",
   },

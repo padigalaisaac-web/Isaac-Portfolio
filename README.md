@@ -275,4 +275,4 @@ If configuring manually without Blueprints:
 - Location: Hyderabad, India  
 - Education: B.Tech CSE (AI & ML) — Expected 2028  
 - GitHub: [github.com/padigalaisaac-web](https://github.com/padigalaisaac-web)  
-- LinkedIn: [linkedin.com/in/padigalaisaac](https://linkedin.com)
+- LinkedIn: [linkedin.com/in/padigalaisaac](https://linkedin.com/in/padigalaisaac)
