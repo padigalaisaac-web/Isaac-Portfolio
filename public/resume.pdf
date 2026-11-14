@@ -1,0 +1,110 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >> endobj
+4 0 obj << /Length 2220 >>
+stream
+BT
+/F1 22 Tf
+40 740 Td
+(PADIGALA ISAAC) Tj
+0 -22 Td
+/F2 11 Tf
+(Software Engineer | Full Stack Developer | AI/ML Enthusiast) Tj
+0 -16 Td
+(Hyderabad, India | padigalaisaac@gmail.com | +91 9441909774) Tj
+0 -20 Td
+/F1 13 Tf
+(EDUCATION) Tj
+0 -16 Td
+/F2 10 Tf
+(B.Tech in Computer Science & Engineering - AI & ML) Tj
+0 -13 Td
+(CGPA: 8.11 | Expected Graduation: 2028) Tj
+0 -14 Td
+(Intermediate: 88.4% (2024) | SSC: 9.2 GPA (2022)) Tj
+0 -22 Td
+/F1 13 Tf
+(TECHNICAL SKILLS) Tj
+0 -15 Td
+/F2 10 Tf
+(Programming: Python, Java, JavaScript, TypeScript, C, C++) Tj
+0 -13 Td
+(Frontend: HTML5, CSS3, React, Vite, Tailwind CSS) Tj
+0 -13 Td
+(Backend: Python, FastAPI, Node.js, Express.js, PHP, REST APIs) Tj
+0 -13 Td
+(Databases: MySQL, MongoDB, Supabase, PostgreSQL, SQLite) Tj
+0 -13 Td
+(Tools & Platforms: Git, GitHub, VS Code, Docker, n8n, LiveKit) Tj
+0 -22 Td
+/F1 13 Tf
+(FEATURED PROJECTS) Tj
+0 -16 Td
+/F1 11 Tf
+(1. DeepGuard AI - AI-Powered Deepfake Detection Web Application) Tj
+0 -13 Td
+/F2 9.5 Tf
+(React, TypeScript, Python, FastAPI, OpenCV, Docker) Tj
+0 -12 Td
+(Full-stack deepfake analysis pipeline with frame-by-frame authenticity verification dashboards.) Tj
+0 -16 Td
+/F1 11 Tf
+(2. BusGoo - Full Stack Bus Booking Application) Tj
+0 -13 Td
+/F2 9.5 Tf
+(React, TypeScript, Vite, Supabase, Tailwind CSS) Tj
+0 -12 Td
+(Real-time bus seat inventory, booking workflows, and responsive customer interface.) Tj
+0 -16 Td
+/F1 11 Tf
+(3. Library Management System) Tj
+0 -13 Td
+/F2 9.5 Tf
+(React, Node.js, Express.js, MongoDB) Tj
+0 -12 Td
+(Complete book cataloging, member issue/return workflows, and transaction records.) Tj
+0 -16 Td
+/F1 11 Tf
+(4. Online Bus Booking System) Tj
+0 -13 Td
+/F2 9.5 Tf
+(HTML, CSS, PHP, MySQL) Tj
+0 -12 Td
+(Relational database-backed ticketing platform with schedule management.) Tj
+0 -16 Td
+/F1 11 Tf
+(5. AI Social Media Video Automation) Tj
+0 -13 Td
+/F2 9.5 Tf
+(n8n, Social Media Integrations) Tj
+0 -12 Td
+(Automated video creation pipeline from prompt inputs to Instagram & YouTube distribution.) Tj
+0 -22 Td
+/F1 13 Tf
+(CERTIFICATIONS & WORKSHOPS) Tj
+0 -15 Td
+/F2 10 Tf
+(- Programming Fundamentals - Infosys Springboard) Tj
+0 -13 Td
+(- Web Development Workshop) Tj
+0 -13 Td
+(- Database Management Workshop) Tj
+ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+6 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002523 00000 n 
+0000002598 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+2668
+%%EOF
